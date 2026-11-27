@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "SensiLabFX"
 include ':app'
-
